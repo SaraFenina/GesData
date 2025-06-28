@@ -10,6 +10,10 @@ It focuses on basic data processing in Python:
 The code is modular and tested.
 
  Structure
+ 
+- `SF_10_analyseur.py`: main program 
 - `DONNEES/`: CSV data files  
 - `outils_*.py`: utility functions  
-- `SF_*.py`: main functions and tests  
+- `SF_*.py`: main functions and tests
+
+
